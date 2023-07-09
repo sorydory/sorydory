@@ -1,1 +1,40 @@
-https://sorydory.github.io
+<div align="center">
+
+ ### Hi there 👋   
+
+  💻   **I'm a Web Develover**    
+
+  🇰🇷  **I'm working in South Korea**
+  <br>
+  <br>
+**✶ ᴄᴏɴᴛᴀᴄᴛ ✶**
+
+[![gmail](https://shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:you.meet.jindol0712@gmail.com)
+[![tistory](https://shields.io/badge/tistory-black?style=for-the-badge&logo=tistory)](https://sorydory.tistory.com)
+
+<br>
+<br>
+
+**✶ 💻ᴛᴇᴄᴋ sᴛᴀᴄᴋ & ᴛᴏᴏʟs ✶**
+
+_⋆ FRONTEND_
+
+![javascript](https://shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![scss](https://shields.io/badge/scss-black?style=for-the-badge&logo=sass)
+![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react)
+<br>
+![html5](https://img.shields.io/badge/html-000000?&logo=html5)
+![css3](https://img.shields.io/badge/css-000000?&logo=css3)
+![axios](https://img.shields.io/badge/axios-000000?&logo=axios)
+![redux](https://img.shields.io/badge/redux-000000?&logo=redux)
+
+_⋆ BACKEND_
+
+![nodejs](https://img.shields.io/badge/node.js-000000?&logo=node.js)
+![express](https://img.shields.io/badge/express-000000?&logo=express)
+![mysql](https://shields.io/badge/mysql-000000?&logo=mysql)
+
+_⋆ TOOLS_
+
+![git](https://shields.io/badge/git-000000?&logo=git)
+![github](https://shields.io/badge/github-000000?&logo=github)
