@@ -13,9 +13,9 @@
   🇰🇷  **I'm working in South Korea**
   <br>
   <br>
-**✶ ᴄᴏɴᴛᴀᴄᴛ ✶**
+  
+**✶ BLOG ✶**
 
-[![gmail](https://shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:you.meet.jindol0712@gmail.com)
 [![tistory](https://shields.io/badge/tistory-black?style=for-the-badge&logo=tistory)](https://sorydory.tistory.com)
 
 <br>
