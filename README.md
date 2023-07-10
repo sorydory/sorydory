@@ -44,3 +44,4 @@ _⋆ TOOLS_
 
 ![git](https://shields.io/badge/git-000000?&logo=git)
 ![github](https://shields.io/badge/github-000000?&logo=github)
+![visualstudiocode](https://shields.io/badge/visualstudiocode-000000?&logo=visualstudiocode)
