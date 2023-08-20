@@ -10,7 +10,7 @@
 
   💻   **I'm a Web Develover**    
 
-  🇰🇷  **I'm working in Seongnam, South Korea**
+  🇰🇷  **I'm working in Seocho, Seoul South Korea**
   <br>
   <br>
   
