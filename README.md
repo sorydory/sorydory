@@ -32,8 +32,6 @@ _⋆ FRONTEND_
 ![html5](https://img.shields.io/badge/html-000000?&logo=html5)
 ![css3](https://img.shields.io/badge/css-000000?&logo=css3)
 ![axios](https://img.shields.io/badge/axios-000000?&logo=axios)
-![dart](https://shields.io/badge/dart-000000?&logo=dart)
-![flutter](https://shields.io/badge/flutter-000000?&logo=flutter)
 ![redux](https://img.shields.io/badge/redux-000000?&logo=redux)
 
 _⋆ BACKEND_
