@@ -27,6 +27,7 @@ _⋆ FRONTEND_
 
 ![javascript](https://shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![scss](https://shields.io/badge/scss-black?style=for-the-badge&logo=sass)
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma)
 ![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react)
 <br>
 ![html5](https://img.shields.io/badge/html-000000?&logo=html5)
