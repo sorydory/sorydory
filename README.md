@@ -26,9 +26,10 @@
 _⋆ FRONTEND_
 
 ![javascript](https://shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react)
 ![scss](https://shields.io/badge/scss-black?style=for-the-badge&logo=sass)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma)
-![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react)
+![illustrator](https://img.shields.io/badge/illustrator-000000?style=for-the-badge&logo=illustrator)
 <br>
 ![html5](https://img.shields.io/badge/html-000000?&logo=html5)
 ![css3](https://img.shields.io/badge/css-000000?&logo=css3)
