@@ -33,7 +33,6 @@ _⋆ FRONTEND_
 <br>
 ![html5](https://img.shields.io/badge/html-000000?&logo=html5)
 ![css3](https://img.shields.io/badge/css-000000?&logo=css3)
-![axios](https://img.shields.io/badge/axios-000000?&logo=axios)
 ![redux](https://img.shields.io/badge/redux-000000?&logo=redux)
 
 _⋆ BACKEND_
